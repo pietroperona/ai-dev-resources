@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a curated documentation repository for AI developers containing external resources and references. It serves as an archive of useful documentation for navigating the AI and machine learning landscape.
+This is a curated link repository for AI developers containing repositories, tools, resources, and reports. It serves as a centralized hub for AI development resources organized by category.
 
 ## Repository Structure
 
@@ -31,21 +31,20 @@ Each category folder contains:
 ## Content Management
 
 ### Adding New Resources
-When adding new resources:
+When adding new resources (repositories, tools, resources, reports):
 1. Determine the appropriate category based on the resource type
 2. **ALWAYS update BOTH language versions simultaneously**:
    - Create/update `README.md` (English) first
    - Create/update `README_IT.md` (Italian) with equivalent content
-   - Include repository link and description
-   - Main content areas
-   - Why it's useful for developers
-   - Specific technologies or frameworks covered
+   - Add links under appropriate sections (Repositories, Tools, Resources, Reports)
+   - Include brief descriptions for each link
+   - Focus on practical utility for developers
 
 ### Documentation Style
 - Primary documentation is in English, with Italian translations provided
-- Each category README follows the same structure: description, main contents, and value proposition
-- Include external repository links with proper attribution
-- Focus on practical value and specific use cases
+- Each category README follows sections: Repositories, Tools, Resources, Reports & Research
+- Keep descriptions concise and focused on practical utility
+- Include direct links with brief explanations
 - Maintain consistency between language versions
 
 ### CRITICAL MULTILINGUAL WORKFLOW
@@ -73,4 +72,4 @@ When adding new resources:
 
 ## Content Philosophy
 
-This repository curates external resources rather than hosting original code. The focus is on organizing and presenting valuable AI development resources in a structured, accessible way for the international developer community, with particular attention to English and Italian-speaking developers.
+This repository curates external links rather than hosting original content. The focus is on organizing and presenting valuable AI development resources (repositories, tools, resources, reports) in a structured, accessible way for the international developer community, with particular attention to English and Italian-speaking developers.

@@ -1,47 +1,36 @@
-# Tools e Strumenti 🛠️
+# Tools e Strumenti
 
 **🌐 Versioni Linguistiche:** [English](README.md) | [Italiano](README_IT.md)
 
-Questa sezione raccoglie strumenti utili per lo sviluppo AI, framework, librerie e utilità per migliorare la produttività degli sviluppatori.
+## Strumenti di Sviluppo
 
-## Framework e Librerie
+### Framework
+- **LangChain** - Framework per applicazioni LLM
+- **LangGraph** - Framework per agenti multi-attore
+- **PydanticAI** - Framework type-safe per agenti
 
-### Per Agenti AI
-- **LangChain:** Framework per sviluppare applicazioni con LLM
-- **LangGraph:** Libreria per costruire agenti stateful e multi-attore
-- **PydanticAI:** Framework type-safe per agenti AI
+### IDE & Editor
 
-### Per Prompt Engineering
-- Strumenti per testing e ottimizzazione dei prompt
-- Template e pattern riutilizzabili
-- Sistemi di valutazione automatica
+*Aggiungi link a ambienti di sviluppo e editor focalizzati su AI*
 
-### Per Production
-- Strumenti di monitoring e observability
-- Sistemi di deployment
-- Framework per scaling
+### Testing & Debugging
 
-## Utilità di Sviluppo
+*Aggiungi link a strumenti di testing AI, utilità di debug e framework di valutazione*
 
-### Testing e Debugging
-- Tools per debug di agenti AI
-- Sistemi di tracing
-- Framework per evaluation
+## Strumenti di Deployment
+
+### Piattaforme Cloud
+
+*Aggiungi link a piattaforme di deployment cloud e servizi*
 
 ### Monitoring
-- Sistemi di monitoraggio real-time
-- Metriche per AI systems
-- Alerting e notifiche
 
-### Deployment
-- Strumenti per GPU deployment
-- Container e orchestrazione
-- CI/CD per AI applications
+*Aggiungi link a strumenti di monitoring e piattaforme di observability*
 
-## Risorse Aggiuntive
+## Dataset & Benchmark
 
-- Dataset per training e testing
-- Benchmark e evaluation suite
-- Documentazione e guide tecniche
+*Aggiungi link a dataset, benchmark e suite di valutazione*
 
-*Nota: Questa sezione verrà espansa con strumenti specifici man mano che vengono identificati e testati.*
+## Utilità
+
+*Aggiungi link a utilità, script e strumenti di supporto*

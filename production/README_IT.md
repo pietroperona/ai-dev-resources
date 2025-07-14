@@ -1,34 +1,20 @@
-# AI in Production 🚀
+# AI in Production
 
 **🌐 Versioni Linguistiche:** [English](README.md) | [Italiano](README_IT.md)
 
-## Agents Towards Production
-**Repository:** [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
+## Repository
 
-Il playbook open-source per trasformare gli agenti AI in prodotti reali e scalabili.
+### [Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)
+Playbook per agenti AI production-ready con strategie di deployment, monitoring e scaling.
 
-### Contenuti principali:
-- **GPU Deployment:** Strategie per il deployment su GPU
-- **Real-Time Monitoring:** Monitoraggio in tempo reale
-- **Tool Integration:** Integrazione con strumenti esterni
-- **Agent Memory:** Gestione della memoria degli agenti
-- **Orchestration:** Orchestrazione di sistemi complessi
-- **Security:** Sicurezza e best practices
-- **Agent Frameworks:** Framework per agenti production-ready
-- **Model Customization:** Personalizzazione dei modelli
-- **Multi-agent Coordination:** Coordinamento tra agenti multipli
-- **Tracing & Debugging:** Debug e tracciamento
-- **Evaluation:** Valutazione delle performance
-- **UI & Frontend:** Interfacce utente per agenti
+## Tools & Piattaforme
 
-### Approccio:
-- **Code-first:** Tutorial pratici con codice funzionante
-- **Hands-on learning:** Apprendimento attraverso la pratica
-- **Real-world focus:** Strategie per implementazioni reali
-- **Scalability:** Soluzioni per sistemi scalabili
+*Aggiungi link a strumenti di deployment, piattaforme di monitoring e infrastrutture production*
 
-### Perché è utile:
-- Colma il gap tra prototipo e produzione
-- Copertura completa degli aspetti production
-- Esempi pratici e implementazioni funzionanti
-- Focus sulla scalabilità e reliability
+## Risorse
+
+*Aggiungi link a guide production, best practices e casi studio*
+
+## Report & Casi Studio
+
+*Aggiungi link a report di deployment production e casi studio reali*

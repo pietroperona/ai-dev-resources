@@ -1,29 +1,22 @@
-# AI Agents 🤖
+# AI Agents
 
 **🌐 Versioni Linguistiche:** [English](README.md) | [Italiano](README_IT.md)
 
-## GenAI Agents
-**Repository:** [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
+## Repository
 
-Risorsa completa per imparare, costruire e condividere agenti GenAI, con oltre 45 implementazioni diverse.
+### [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
+45+ implementazioni di agenti usando LangChain, LangGraph, PydanticAI.
 
-### Contenuti principali:
-- **Agenti per principianti:** Introduzione ai concetti base
-- **Framework:** LangChain, LangGraph, PydanticAI
-- **Agenti educativi/ricerca:** Per accademici e ricercatori
-- **Agenti business:** Customer support, analisi, automazione
-- **Agenti creativi:** Generazione contenuti, arte, scrittura
-- **Agenti di analisi:** Data analysis, reporting, insights
+## Tools & Framework
 
-### Categorie di agenti:
-- Tutorial per principianti
-- Agenti per framework specifici
-- Agenti professionali e business
-- Agenti creativi e di content generation
-- Agenti di analisi e ricerca
+- **LangChain** - Framework per applicazioni LLM
+- **LangGraph** - Framework per agenti multi-attore
+- **PydanticAI** - Framework type-safe per agenti AI
 
-### Perché è utile:
-- Approccio community-driven
-- Implementazioni pratiche e funzionanti
-- Copertura di diversi domini applicativi
-- Codice ben strutturato e documentato
+## Risorse
+
+*Aggiungi link a risorse per sviluppo agenti, tutorial e guide*
+
+## Report & Ricerca
+
+*Aggiungi link a paper di ricerca e report industriali su agenti*

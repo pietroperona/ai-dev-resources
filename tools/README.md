@@ -1,47 +1,36 @@
-# Tools and Utilities 🛠️
+# Tools and Utilities
 
 **🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
 
-This section collects useful tools for AI development, frameworks, libraries, and utilities to improve developer productivity.
+## Development Tools
 
-## Frameworks and Libraries
+### Frameworks
+- **LangChain** - LLM application framework
+- **LangGraph** - Multi-actor agent framework
+- **PydanticAI** - Type-safe agent framework
 
-### For AI Agents
-- **LangChain:** Framework for developing LLM applications
-- **LangGraph:** Library for building stateful and multi-actor agents
-- **PydanticAI:** Type-safe framework for AI agents
+### IDEs & Editors
 
-### For Prompt Engineering
-- Tools for prompt testing and optimization
-- Reusable templates and patterns
-- Automatic evaluation systems
+*Add links to AI-focused development environments and code editors*
 
-### For Production
-- Monitoring and observability tools
-- Deployment systems
-- Scaling frameworks
+### Testing & Debugging
 
-## Development Utilities
+*Add links to AI testing tools, debugging utilities, and evaluation frameworks*
 
-### Testing and Debugging
-- Tools for AI agent debugging
-- Tracing systems
-- Evaluation frameworks
+## Deployment Tools
+
+### Cloud Platforms
+
+*Add links to cloud deployment platforms and services*
 
 ### Monitoring
-- Real-time monitoring systems
-- Metrics for AI systems
-- Alerting and notifications
 
-### Deployment
-- GPU deployment tools
-- Container and orchestration
-- CI/CD for AI applications
+*Add links to monitoring tools and observability platforms*
 
-## Additional Resources
+## Datasets & Benchmarks
 
-- Datasets for training and testing
-- Benchmarks and evaluation suites
-- Documentation and technical guides
+*Add links to datasets, benchmarks, and evaluation suites*
 
-*Note: This section will be expanded with specific tools as they are identified and tested.*
+## Utilities
+
+*Add links to useful utilities, scripts, and helper tools*

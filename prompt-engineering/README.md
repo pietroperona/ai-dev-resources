@@ -1,31 +1,20 @@
-# Prompt Engineering 💬
+# Prompt Engineering
 
 **🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
 
-## Prompt Engineering Guide
-**Repository:** [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+## Repositories
 
-Complete open-source guide for prompt engineering, focused on developing and optimizing prompts for Large Language Models.
+### [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+Complete open-source guide with techniques, best practices, and research insights.
 
-### Main Contents:
-- **Fundamentals:** Introduction to prompt engineering
-- **Detailed Techniques:** Zero-Shot, Few-Shot, Chain-of-Thought
-- **Model-specific Guides:** Best practices for different LLMs
-- **Practical Applications:** Real use cases and implementations
-- **Risks and Considerations:** Ethical aspects and limitations
-- **Academic Research:** Papers and research insights
+## Tools
 
-### Included Resources:
-- Complete Markdown documentation
-- Interactive Jupyter Notebooks
-- Video lectures
-- Presentation slides
-- Research paper references
-- Code examples
-- Recommended tools and datasets
+*Add links to prompt engineering tools, playgrounds, and testing platforms*
 
-### Why it's useful:
-- Relatively new but fundamental discipline
-- Systematic approach to prompt optimization
-- Complete coverage from basic to advanced
-- Multimedia resources for different learning styles
+## Resources
+
+*Add links to courses, tutorials, and educational content*
+
+## Reports & Research
+
+*Add links to prompt engineering research papers and studies*
