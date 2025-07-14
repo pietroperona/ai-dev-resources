@@ -1,34 +1,36 @@
-# Tutorials e Corsi 📚
+# Tutorials and Courses 📚
+
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
 
 ## Awesome Generative AI Guide
 **Repository:** [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide)
 
-Hub completo per risorse di AI generativa, con aggiornamenti di ricerca, preparazione ai colloqui e materiali di apprendimento.
+Complete hub for generative AI resources, with research updates, interview preparation, and learning materials.
 
-### Contenuti principali:
-- **90+ corsi gratuiti:** Collezione curata di corsi online gratuiti
-- **Preparazione colloqui:** Domande e risposte per colloqui AI
-- **Aggiornamenti ricerca:** Riassunti dei paper più recenti
-- **Code notebooks:** Jupyter notebooks per apprendimento pratico
-- **Roadmap di apprendimento:** Percorsi strutturati per LLM e agenti
-- **Strumenti AI:** Lista curata di tool per sviluppatori
+### Main Contents:
+- **90+ free courses:** Curated collection of free online courses
+- **Interview preparation:** Questions and answers for AI interviews
+- **Research updates:** Summaries of the latest papers
+- **Code notebooks:** Jupyter notebooks for practical learning
+- **Learning roadmaps:** Structured paths for LLMs and agents
+- **AI tools:** Curated list of developer tools
 
-### Risorse per l'apprendimento:
-- Corsi da università prestigiose
-- Materiali da Coursera, DeepLearning.AI
-- Tutorial tecnici su RAG, Fine-tuning, Prompt Engineering
-- Corso "Applied LLMs Mastery 2024" in corso
+### Learning Resources:
+- Courses from prestigious universities
+- Materials from Coursera, DeepLearning.AI
+- Technical tutorials on RAG, Fine-tuning, Prompt Engineering
+- Ongoing "Applied LLMs Mastery 2024" course
 
-### Categorie coperte:
-- Corsi e risorse di apprendimento
-- Preparazione per colloqui tecnici
-- Aggiornamenti dalla ricerca
-- Repository di codice e notebook
-- Roadmap tecniche
-- Raccomandazioni di strumenti
+### Covered Categories:
+- Courses and learning resources
+- Technical interview preparation
+- Research updates
+- Code repositories and notebooks
+- Technical roadmaps
+- Tool recommendations
 
-### Perché è utile:
-- Risorsa one-stop per professionisti e appassionati
-- Contenuti sempre aggiornati
-- Approccio pratico con codice e tutorial
-- Copertura completa dall'apprendimento all'applicazione
+### Why it's useful:
+- One-stop resource for professionals and enthusiasts
+- Always updated content
+- Practical approach with code and tutorials
+- Complete coverage from learning to application

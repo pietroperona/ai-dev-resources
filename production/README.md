@@ -1,32 +1,34 @@
 # AI in Production 🚀
 
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
+
 ## Agents Towards Production
 **Repository:** [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production)
 
-Il playbook open-source per trasformare gli agenti AI in prodotti reali e scalabili.
+The open-source playbook for turning AI agents into real-world, scalable products.
 
-### Contenuti principali:
-- **GPU Deployment:** Strategie per il deployment su GPU
-- **Real-Time Monitoring:** Monitoraggio in tempo reale
-- **Tool Integration:** Integrazione con strumenti esterni
-- **Agent Memory:** Gestione della memoria degli agenti
-- **Orchestration:** Orchestrazione di sistemi complessi
-- **Security:** Sicurezza e best practices
-- **Agent Frameworks:** Framework per agenti production-ready
-- **Model Customization:** Personalizzazione dei modelli
-- **Multi-agent Coordination:** Coordinamento tra agenti multipli
-- **Tracing & Debugging:** Debug e tracciamento
-- **Evaluation:** Valutazione delle performance
-- **UI & Frontend:** Interfacce utente per agenti
+### Main Contents:
+- **GPU Deployment:** Strategies for GPU deployment
+- **Real-Time Monitoring:** Real-time monitoring
+- **Tool Integration:** Integration with external tools
+- **Agent Memory:** Agent memory management
+- **Orchestration:** Complex system orchestration
+- **Security:** Security and best practices
+- **Agent Frameworks:** Production-ready agent frameworks
+- **Model Customization:** Model customization
+- **Multi-agent Coordination:** Multi-agent coordination
+- **Tracing & Debugging:** Debugging and tracing
+- **Evaluation:** Performance evaluation
+- **UI & Frontend:** User interfaces for agents
 
-### Approccio:
-- **Code-first:** Tutorial pratici con codice funzionante
-- **Hands-on learning:** Apprendimento attraverso la pratica
-- **Real-world focus:** Strategie per implementazioni reali
-- **Scalability:** Soluzioni per sistemi scalabili
+### Approach:
+- **Code-first:** Practical tutorials with working code
+- **Hands-on learning:** Learning through practice
+- **Real-world focus:** Strategies for real implementations
+- **Scalability:** Solutions for scalable systems
 
-### Perché è utile:
-- Colma il gap tra prototipo e produzione
-- Copertura completa degli aspetti production
-- Esempi pratici e implementazioni funzionanti
-- Focus sulla scalabilità e reliability
+### Why it's useful:
+- Bridges the gap between prototype and production
+- Complete coverage of production aspects
+- Practical examples and working implementations
+- Focus on scalability and reliability

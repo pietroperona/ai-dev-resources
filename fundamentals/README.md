@@ -1,24 +1,26 @@
 # AI Fundamentals 🧠
 
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
+
 ## Hands-On Large Language Models
 **Repository:** [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
-Repository ufficiale del libro O'Reilly di Jay Alammar e Maarten Grootendorst con strumenti pratici e approfondimenti sui Large Language Models.
+Official repository for the O'Reilly book by Jay Alammar and Maarten Grootendorst with practical tools and insights into Large Language Models.
 
-### Contenuti principali:
-- 12 capitoli con tutorial Jupyter Notebook
-- Oltre 300 figure personalizzate per spiegare concetti complessi
-- Architettura dei transformer
-- Tokenizzazione e embedding
-- Classificazione e clustering del testo
+### Main Contents:
+- 12 chapters with Jupyter Notebook tutorials
+- Over 300 custom figures to explain complex concepts
+- Transformer architecture
+- Tokenization and embedding
+- Text classification and clustering
 - Prompt engineering
-- Generazione di testo
-- Ricerca semantica
-- Modelli multimodali
-- Fine-tuning dei modelli
+- Text generation
+- Semantic search
+- Multimodal models
+- Model fine-tuning
 
-### Perché è utile:
-- Approccio hands-on con esempi pratici
-- Visualizzazioni eccellenti per concetti complessi
-- Copertura completa dai fondamenti alle applicazioni avanzate
-- Codice ben documentato e organizzato
+### Why it's useful:
+- Hands-on approach with practical examples
+- Excellent visualizations for complex concepts
+- Complete coverage from fundamentals to advanced applications
+- Well-documented and organized code

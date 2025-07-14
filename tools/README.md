@@ -1,45 +1,47 @@
-# Tools e Strumenti 🛠️
+# Tools and Utilities 🛠️
 
-Questa sezione raccoglie strumenti utili per lo sviluppo AI, framework, librerie e utilità per migliorare la produttività degli sviluppatori.
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
 
-## Framework e Librerie
+This section collects useful tools for AI development, frameworks, libraries, and utilities to improve developer productivity.
 
-### Per Agenti AI
-- **LangChain:** Framework per sviluppare applicazioni con LLM
-- **LangGraph:** Libreria per costruire agenti stateful e multi-attore
-- **PydanticAI:** Framework type-safe per agenti AI
+## Frameworks and Libraries
 
-### Per Prompt Engineering
-- Strumenti per testing e ottimizzazione dei prompt
-- Template e pattern riutilizzabili
-- Sistemi di valutazione automatica
+### For AI Agents
+- **LangChain:** Framework for developing LLM applications
+- **LangGraph:** Library for building stateful and multi-actor agents
+- **PydanticAI:** Type-safe framework for AI agents
 
-### Per Production
-- Strumenti di monitoring e observability
-- Sistemi di deployment
-- Framework per scaling
+### For Prompt Engineering
+- Tools for prompt testing and optimization
+- Reusable templates and patterns
+- Automatic evaluation systems
 
-## Utilità di Sviluppo
+### For Production
+- Monitoring and observability tools
+- Deployment systems
+- Scaling frameworks
 
-### Testing e Debugging
-- Tools per debug di agenti AI
-- Sistemi di tracing
-- Framework per evaluation
+## Development Utilities
+
+### Testing and Debugging
+- Tools for AI agent debugging
+- Tracing systems
+- Evaluation frameworks
 
 ### Monitoring
-- Sistemi di monitoraggio real-time
-- Metriche per AI systems
-- Alerting e notifiche
+- Real-time monitoring systems
+- Metrics for AI systems
+- Alerting and notifications
 
 ### Deployment
-- Strumenti per GPU deployment
-- Container e orchestrazione
-- CI/CD per AI applications
+- GPU deployment tools
+- Container and orchestration
+- CI/CD for AI applications
 
-## Risorse Aggiuntive
+## Additional Resources
 
-- Dataset per training e testing
-- Benchmark e evaluation suite
-- Documentazione e guide tecniche
+- Datasets for training and testing
+- Benchmarks and evaluation suites
+- Documentation and technical guides
 
-*Nota: Questa sezione verrà espansa con strumenti specifici man mano che vengono identificati e testati.*
+*Note: This section will be expanded with specific tools as they are identified and tested.*

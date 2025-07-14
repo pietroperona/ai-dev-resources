@@ -1,57 +1,59 @@
 # AI Development Resources 🤖
 
-Una raccolta curata di risorse essenziali per sviluppatori che lavorano con l'Intelligenza Artificiale. Questo repository è pensato come un archivio di documentazione utile per navigare nel mondo dell'AI e del machine learning.
+A curated collection of essential resources for developers working with Artificial Intelligence. This repository serves as a useful documentation archive for navigating the AI and machine learning landscape.
 
-## 📁 Struttura del Repository
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
+
+## 📁 Repository Structure
 
 ### [Fundamentals](./fundamentals/)
-Risorse per comprendere i fondamenti dell'AI e dei Large Language Models
-- **Hands-On Large Language Models** - Guide pratiche e tutorial sui LLM
-- Embedding e tokenization
-- Architettura dei transformer
-- Classificazione e clustering
+Resources to understand AI and Large Language Models fundamentals
+- **Hands-On Large Language Models** - Practical guides and LLM tutorials
+- Embedding and tokenization
+- Transformer architecture
+- Text classification and clustering
 
 ### [Agents](./agents/)
-Tutto quello che serve per sviluppare agenti AI intelligenti
-- **GenAI Agents** - 45+ implementazioni di agenti diversi
-- Framework: LangChain, LangGraph, PydanticAI
-- Agenti per business, creatività, ricerca e analisi
+Everything you need to develop intelligent AI agents
+- **GenAI Agents** - 45+ different agent implementations
+- Frameworks: LangChain, LangGraph, PydanticAI
+- Agents for business, creativity, research, and analysis
 
 ### [Prompt Engineering](./prompt-engineering/)
-Guide complete per l'ottimizzazione dei prompt
-- **Prompt Engineering Guide** - Guida completa open-source
-- Tecniche Zero-Shot, Few-Shot, Chain-of-Thought
-- Best practices e casi d'uso
+Complete guides for prompt optimization
+- **Prompt Engineering Guide** - Complete open-source guide
+- Zero-Shot, Few-Shot, Chain-of-Thought techniques
+- Best practices and use cases
 
 ### [Production](./production/)
-Risorse per portare l'AI in produzione
-- **Agents Towards Production** - Playbook per agenti production-ready
-- Deployment, monitoring, sicurezza
-- Scaling e orchestrazione
+Resources for bringing AI to production
+- **Agents Towards Production** - Playbook for production-ready agents
+- Deployment, monitoring, security
+- Scaling and orchestration
 
 ### [Tutorials](./tutorials/)
-Tutorial e corsi gratuiti
-- **Awesome Generative AI Guide** - 90+ corsi gratuiti
-- Preparazione per colloqui
-- Roadmap di apprendimento
+Tutorials and free courses
+- **Awesome Generative AI Guide** - 90+ free courses
+- Interview preparation
+- Learning roadmaps
 
 ### [Tools](./tools/)
-Strumenti e utilità per sviluppatori AI
-- Liste di tool curati
-- Risorse per sviluppo e testing
-- Framework e librerie
+Tools and utilities for AI developers
+- Curated tool lists
+- Development and testing resources
+- Frameworks and libraries
 
-## 🚀 Come Contribuire
+## 🚀 How to Contribute
 
-1. Aggiungi nuove risorse utili
-2. Migliora la documentazione esistente
-3. Proponi nuove categorie
-4. Segnala link non funzionanti
+1. Add new useful resources
+2. Improve existing documentation
+3. Propose new categories
+4. Report broken links
 
-## 📄 Licenza
+## 📄 License
 
-Questo repository è distribuito sotto licenza MIT. Vedi il file LICENSE per dettagli.
+This repository is distributed under MIT license. See the LICENSE file for details.
 
-## 🙏 Riconoscimenti
+## 🙏 Acknowledgments
 
-Ringraziamo tutti i maintainer delle repository originali per aver condiviso le loro conoscenze con la comunità.
+We thank all the maintainers of the original repositories for sharing their knowledge with the community.

@@ -1,29 +1,31 @@
 # Prompt Engineering 💬
 
+**🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
+
 ## Prompt Engineering Guide
 **Repository:** [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
-Guida completa open-source per il prompt engineering, focalizzata sullo sviluppo e l'ottimizzazione di prompt per Large Language Models.
+Complete open-source guide for prompt engineering, focused on developing and optimizing prompts for Large Language Models.
 
-### Contenuti principali:
-- **Fondamenti:** Introduzione al prompt engineering
-- **Tecniche dettagliate:** Zero-Shot, Few-Shot, Chain-of-Thought
-- **Guide specifiche per modelli:** Best practices per diversi LLM
-- **Applicazioni pratiche:** Casi d'uso reali e implementazioni
-- **Rischi e considerazioni:** Aspetti etici e limitazioni
-- **Ricerca accademica:** Paper e insights dalla ricerca
+### Main Contents:
+- **Fundamentals:** Introduction to prompt engineering
+- **Detailed Techniques:** Zero-Shot, Few-Shot, Chain-of-Thought
+- **Model-specific Guides:** Best practices for different LLMs
+- **Practical Applications:** Real use cases and implementations
+- **Risks and Considerations:** Ethical aspects and limitations
+- **Academic Research:** Papers and research insights
 
-### Risorse incluse:
-- Documentazione Markdown completa
-- Jupyter Notebooks interattivi
-- Video lezioni
-- Slide di presentazione
-- Riferimenti a paper di ricerca
-- Esempi di codice
-- Strumenti e dataset raccomandati
+### Included Resources:
+- Complete Markdown documentation
+- Interactive Jupyter Notebooks
+- Video lectures
+- Presentation slides
+- Research paper references
+- Code examples
+- Recommended tools and datasets
 
-### Perché è utile:
-- Disciplina relativamente nuova ma fondamentale
-- Approccio sistematico all'ottimizzazione dei prompt
-- Copertura completa da base ad avanzato
-- Risorse multimediali per diversi stili di apprendimento
+### Why it's useful:
+- Relatively new but fundamental discipline
+- Systematic approach to prompt optimization
+- Complete coverage from basic to advanced
+- Multimedia resources for different learning styles
