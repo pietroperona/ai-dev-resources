@@ -33,8 +33,10 @@ Each category folder contains:
 ### Adding New Resources
 When adding new resources:
 1. Determine the appropriate category based on the resource type
-2. Update both language versions of the relevant category README with detailed information including:
-   - Repository link and description
+2. **ALWAYS update BOTH language versions simultaneously**:
+   - Create/update `README.md` (English) first
+   - Create/update `README_IT.md` (Italian) with equivalent content
+   - Include repository link and description
    - Main content areas
    - Why it's useful for developers
    - Specific technologies or frameworks covered
@@ -45,6 +47,24 @@ When adding new resources:
 - Include external repository links with proper attribution
 - Focus on practical value and specific use cases
 - Maintain consistency between language versions
+
+### CRITICAL MULTILINGUAL WORKFLOW
+**MANDATORY**: When making ANY changes to documentation in this repository:
+
+1. **Always work on both languages**: Never update only one language version
+2. **Update sequence**: 
+   - First: Update English version (README.md)
+   - Second: Update Italian version (README_IT.md) with equivalent content
+3. **Maintain parity**: Both versions must contain the same:
+   - External repository links
+   - Technical information
+   - Section structure
+   - Formatting and emoji usage
+4. **Language selector**: Ensure all files have the language selector:
+   ```markdown
+   **🌐 Language Versions:** [English](README.md) | [Italiano](README_IT.md)
+   ```
+5. **Commit together**: Always include both language versions in the same commit
 
 ### Repository Maintenance
 - This is a documentation-only repository with no build processes, tests, or deployments
